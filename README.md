@@ -42,12 +42,11 @@ Follow these steps to get the project up and running:
     (b) php artisan db:seed PostSeeder
     (C) php artisan db:seed AdminSeeder
 
-8. Start the development server: By default, the application will be accessible at 'http://127.0.0.1:8000'.
+8. Start the development server: By default, the application will be accessible at 'http://127.0.0.1:8000/admin/login'.
 
 
 ## API Endpoints
 The API provides the following endpoints:
-
 
 POST /api/login
 POST /api/register
